@@ -1,1 +1,3 @@
-# Getting-Started
+# Getting Started with Applied AI
+
+-
